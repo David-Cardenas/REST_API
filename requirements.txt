@@ -1,0 +1,5 @@
+django==3.0.8
+djangorestframework==3.11.0
+
+
+# When you tun server with python3 manage.py runserver go to http://127.0.0.1:8000/admin/login/?next=/admin/ this view is to login superadmin
